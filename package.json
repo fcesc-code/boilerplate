@@ -34,7 +34,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "ejs": "^3.1.6",
-    "faker": "^5.5.2"
+    "faker": "^6.6.6"
   },
   "babel": {
     "presets": [
