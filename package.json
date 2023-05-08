@@ -28,7 +28,7 @@
     "parcel-bundler": "^1.12.5",
     "postcss": "^8.4.23",
     "prettier": "^2.2.1",
-    "rimraf": "^3.0.2",
+    "rimraf": "^5.0.0",
     "sass": "^1.62.1"
   },
   "dependencies": {
